@@ -2,7 +2,9 @@
 
 [[https://github.com/jakub-stastny/blog.engine/actions/workflows/test.yml][https://github.com/jakub-stastny/blog.engine/actions/workflows/test.yml/badge.svg]]
 
-My blog engine written in Elm and Elm UI. My raw blog posts are available [[https://github.com/jakub-stastny/data.blog][here]].
+My blog engine written in Elm and Elm UI.
+
+* Resources and community
 
 This repository is only one of many packages that I wrote to keep my blog running. For the overall architecture documentation as please see the [[https://github.com/jakub-stastny/blog][blog meta repo]]. That's also the place to [[https://github.com/jakub-stastny/blog/issues][raise any issues]] if you encounter any and to [[https://github.com/jakub-stastny/discussion][discuss the project]].
 
