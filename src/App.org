@@ -127,3 +127,7 @@ For at least some of the helpers.
   viewLink path =
     li [] [ a [ href path ] [ Html.text path ] ]
 #+END_SRC
+
+
+* Pending matters
+** TODO Use [[https://github.com/jfmengels/elm-review][elm-review]]
