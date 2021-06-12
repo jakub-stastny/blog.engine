@@ -4,6 +4,8 @@
 
 My blog engine written in Elm and Elm UI. My raw blog posts are available [[https://github.com/jakub-stastny/data.blog][here]].
 
+This repository is only one of many packages that I wrote to keep my blog running. For the overall architecture documentation as please see the [blog meta repo](https://github.com/jakub-stastny/blog). That's also the place to [raise any issues](https://github.com/jakub-stastny/blog/issues) if you encounter any and to [discuss the project](https://github.com/jakub-stastny/discussion).
+
 ** Literate programming
 
 In case you're wondering where are all the Elm files, you have to tangle code blocks from [[https://orgmode.org][Org mode]] files in =src= into actual Elm files using Org mode in Emacs.
