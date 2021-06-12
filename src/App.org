@@ -92,6 +92,8 @@
 
 * View
 
+[[https://mdgriffith.gitbooks.io/style-elements/content/]]
+
 #+BEGIN_SRC elm
   view : Model -> {title: String, body: List (Html Msg)}
   view model =
