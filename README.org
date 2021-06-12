@@ -22,6 +22,4 @@ If you're curious why am I doing this, you can check my post on [[https://github
 
 * Setup
 
-See [[./.env/README.org][.env/README.org]] for literate DevOps instructions on setting the project.
-
-Note that this setup is more of an extension of dotfiles (and requires specific initialisation code which I have in [[https://github.com/jakub-stastny/dotfiles][my dotfiles]]), it doesn't deal with installing Elm and the dependencies, for which I use [[https://github.com/jakub-stastny/docker-project-manager][docker-project-manager]].
+If you want to contribute or just play around with it, check out [[https://github.com/jakub-stastny/blog/blob/master/doc/setup.org][how to set up the repository]].
