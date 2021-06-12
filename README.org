@@ -9,11 +9,16 @@ My blog engine written in Elm and Elm UI.
 This repository is only one of many packages that I wrote for my blog. For the overall architecture and documentation please see the [[https://github.com/jakub-stastny/blog][blog meta repo]]. That's also the place to [[https://github.com/jakub-stastny/blog/issues][raise any issues]] if you encounter any and to [[https://github.com/jakub-stastny/blog/discussions][discuss the project and ask questions]].
 
 * Understanding the code base
+
+/Where's all the source code?/
+
 ** Literate programming
 
 In case you're wondering where are all the Elm files, you have to tangle code blocks from [[https://orgmode.org][Org mode]] files in =src= into actual Elm files using Org mode in Emacs.
 
-[[https://github.com/jakub-stastny/blog/blob/master/doc/literate-programming.org][literate programming]]
+Don't worry about it though – unless you want to set up the code locally, there is no need. Just read the Org mode files in the =src= directory, it contains well-documented code.
+
+If you're curious why am I doing this, you can check my post on [[https://github.com/jakub-stastny/blog/blob/master/doc/literate-programming.org][literate programming]].
 
 * Setup
 
