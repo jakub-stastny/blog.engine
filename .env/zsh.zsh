@@ -34,7 +34,7 @@ compile() {
 }
 
 generate-readme() {
-  ../meta/bin/generate-readme $PWD
+  ../blog.meta/bin/generate-readme $PWD
 }
 
 report-custom-functions
