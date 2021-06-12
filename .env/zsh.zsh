@@ -33,4 +33,8 @@ compile() {
   cd -
 }
 
+generate-readme() {
+  ../meta/bin/generate-readme $PWD
+}
+
 report-custom-functions
