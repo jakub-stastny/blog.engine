@@ -6,7 +6,7 @@ My blog engine written in Elm and Elm UI.
 
 * Resources and community
 
-This repository is only one of many packages that I wrote to keep my blog running. For the overall architecture documentation as please see the [[https://github.com/jakub-stastny/blog][blog meta repo]]. That's also the place to [[https://github.com/jakub-stastny/blog/issues][raise any issues]] if you encounter any and to [[https://github.com/jakub-stastny/discussion][discuss the project]].
+This repository is only one of many packages that I wrote for my blog. For the overall architecture and documentation please see the [[https://github.com/jakub-stastny/blog][blog meta repo]]. That's also the place to [[https://github.com/jakub-stastny/blog/issues][raise any issues]] if you encounter any and to [[https://github.com/jakub-stastny/blog/discussions][discuss the project and ask questions]].
 
 ** Literate programming
 
